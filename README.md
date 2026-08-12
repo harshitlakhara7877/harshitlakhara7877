@@ -18,8 +18,6 @@
 
 🤖 Exploring AI Engineering, LLM applications and local AI systems
 
-🚀 Creator of projects like ForgeAI and NovaRide
-
 📚 Learning system design, computer networks and advanced backend architecture
 
 🌱 Always improving. Always building.
@@ -33,28 +31,28 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python" />
+<img src="https://skillicons.dev/icons?i=java,js,python,sql" />
 </p>
 
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,threeJs,gsap" />
 </p>
 
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt,fastapi" />
 </p>
 
 
 ### AI & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker," />
 </p>
 
 
