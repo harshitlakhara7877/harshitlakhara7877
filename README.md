@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Harshit Lakhara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Architecture+Enthusiast;AI+%26+LLM+Explorer+%7C+Software+Developer+In+Progress;System+Design+Learner+%7C+Driven+By+Curiosity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Architecture+Enthusiast;AI+%26+Data+Science+Explorer+%7C+Software+Developer+In+Progress;System+Design+Learner+%7C+Exploring+Tech;Learn+Deeply+%7C+Build+Consistently+%7C+Grow+Continuously" />
 
 <br/>
 
