@@ -180,9 +180,46 @@ Socket.IO
 
 </div>
 
+---
+
+# 🧩 Problem Solving
+
+
+<div align="center">
+
+### Data Structures & Algorithms Journey
+
+</div>
+
+
+🧠 Strengthening problem-solving skills through consistent DSA practice
+
+⚡ Solving algorithmic problems to improve logic and coding efficiency
+
+📚 Practicing patterns like:
+- Arrays & Strings
+- Linked Lists
+- Trees & Graphs
+- Recursion & Backtracking
+- Dynamic Programming
+- Sliding Window & Two Pointers
+
+
+<div align="center">
+
+<a href="https://leetcode.com/u/MDhEDGuhYd/">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+</div>
 
 
 ---
+
+---
+
 
 # 🧩 My Philosophy
 
