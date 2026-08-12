@@ -2,57 +2,61 @@
 
 # 👋 Hey, I'm Harshit Lakhara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Architecture+Enthusiast;AI+%26+LLM+Explorer;Software+Developer+In+Progress;System+Design+Learner;Driven+By+Curiosity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Architecture+Enthusiast;AI+%26+LLM+Explorer+%7C+Software+Developer+In+Progress;System+Design+Learner+%7C+Driven+By+Curiosity" />
+
+<br/>
 
 </div>
 
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-```text
 💻 Computer Science Student passionate about Software Engineering
 
-⚡ Building modern full-stack applications and scalable backend systems
+⚡ Building scalable full-stack applications and backend systems
 
 🤖 Exploring AI Engineering, LLM applications and local AI systems
 
-📚 Learning system design, computer networks and advanced backend architecture
+🚀 Building real-world products with modern technologies
 
-🌱 Always improving. Always building.
-```
+📚 Learning System Design, Computer Networks and Distributed Systems
+
+🌱 Always Learning. Always Building.
+
 
 ---
 
 # ⚡ Tech Stack
 
 
-### Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,sql" />
 </p>
 
 
-### Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,threeJs,gsap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
+<img src="https://cdn.simpleicons.org/greensock/88CE02" height="48"/>
 </p>
 
 
-### Backend
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jwt,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
 </p>
 
 
-### AI & Tools
+## 🤖 AI & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker," />
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 
@@ -65,9 +69,10 @@
 
 ### Local AI Desktop Assistant
 
-A local AI-powered desktop environment designed to interact with AI models, manage files and improve developer productivity.
+A local AI-powered desktop environment designed to interact with AI models, manage files, and improve developer productivity.
 
-**Tech Stack**
+
+### 🛠 Tech Stack
 
 ```
 React
@@ -77,16 +82,20 @@ Local LLMs
 JavaScript
 ```
 
-Features:
 
-- Local AI model integration
-- AI chat interface
-- File management
-- Developer-focused workflows
+### ✨ Features
+
+- 🤖 Local AI model integration
+- 💬 AI chat interface
+- 📂 File management workflow
+- ⚡ Developer productivity tools
+- 🧠 Local model experimentation
 
 
-Repository:
+🔗 Repository:
+
 [ForgeAI](https://github.com/harshitlakhara7877/Local-AI-Desktop)
+
 
 
 ---
@@ -96,31 +105,36 @@ Repository:
 
 ### Full Stack Ride Sharing Platform
 
-An Uber-inspired ride-sharing application focusing on real-world backend architecture.
+An Uber-inspired ride-sharing platform built with modern full-stack architecture and backend engineering concepts.
 
-**Tech Stack**
+
+### 🛠 Tech Stack
 
 ```
 React
 Node.js
 Express
 MongoDB
-Maps API
 JWT Authentication
+Maps Integration
+Socket.IO
 ```
 
-Features:
 
-- User authentication
-- Captain system
-- Ride workflow
-- Backend API architecture
-- Real-time application concepts
+### ✨ Features
+
+- 🔐 User authentication system
+- 🚗 Captain/driver management
+- 📍 Location-based services
+- 🚘 Ride booking workflow
+- 🌐 REST API architecture
+- ⚡ Real-time communication concepts
 
 
-Repository:
+🔗 Repository:
 
-[NovaRide](https://github.com/harshitlakhara7877)
+[NovaRide](https://github.com/harshitlakhara7877/NovaRide)
+
 
 
 ---
@@ -128,30 +142,29 @@ Repository:
 # 🔥 Current Focus
 
 
-```
-🚀 Building production-ready full stack applications
+🚀 Building production-ready full-stack applications
 
-🏗️ Understanding backend architecture
+🏗️ Designing scalable backend architectures
 
-🤖 Exploring AI agents and LLM applications
+🤖 Exploring AI Agents and LLM applications
 
-🌐 Learning networking and distributed systems
+🌐 Understanding Computer Networks and Distributed Systems
 
-🧩 Improving problem solving with DSA
-```
+🧩 Improving problem solving through DSA
+
+
 
 ---
 
-# 📚 Learning Journey
-
-
-Currently exploring:
+# 📚 Currently Learning
 
 - System Design
-- Computer Networks
-- Database Internals
 - Backend Engineering
+- Database Internals
+- Computer Networks
 - Artificial Intelligence
+- Cloud Fundamentals
+
 
 
 ---
@@ -161,42 +174,51 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitlakhara7877&show_icons=true&theme=tokyonight" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=harshitlakhara7877&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlakhara7877&theme=tokyonight" />
 
 </div>
 
 
+
 ---
 
-# 🧩 Engineering Philosophy
+# 🧩 My Philosophy
+
+- Understand deeply.
+- Build consistently.
+- Improve continuously.
+- Stay curious.
+
+---
+
+# 🌍 Beyond The Terminal
 
 
-```
-Understand deeply.
-Build consistently.
-Improve continuously.
-Stay curious.
-```
+- 🏋️ Building discipline through heavy lifting and fitness
+
+- 🏸 Enjoy playing badminton and staying competitive
+
+- 🌍 Curious about travelling, exploring new places and cultures
+
+- 🔭 Always excited to discover new technologies and ideas
+
+- ☕ Believer in continuous learning, growth and improvement
+
 
 
 ---
 
 # 🤝 Connect With Me
 
-
-<p>
 <a href="https://github.com/harshitlakhara7877">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
+
 
 
 ---
