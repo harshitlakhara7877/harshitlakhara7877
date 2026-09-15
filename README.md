@@ -1,152 +1,67 @@
-<div align="center">
-
 # 👋 Hey, I'm Harshit Lakhara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Architecture+Enthusiast;AI+%26+Data+Science+Explorer+%7C+Software+Developer+In+Progress;System+Design+Learner+%7C+Exploring+Tech;Learn+Deeply+%7C+Build+Consistently+%7C+Grow+Continuously" />
-</div>
-
-
-
-
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshitlakhara7877&label=Profile%20Views&color=00A8FF&style=for-the-badge" alt="Profile Views" />
-</p> -->
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+%7C+Backend+Architecture+Enthusiast;AI+%26+Data+Science+Explorer+%7C+Software+Developer+In+Progress;System+Design+Learner+%7C+Exploring+Tech;Learn+Deeply+%7C+Build+Consistently+%7C+Grow+Continuously" />
+</p>
 
 ---
 
 # 🧠 About Me
 
-💻 Computer Science Student passionate about Software Engineering
+💻 Computer Science student focused on **Software Engineering & Backend Development**
 
-⚡ Building scalable full-stack applications and backend systems
+🚀 Building **full-stack applications, scalable APIs, and real-world products**
 
-🤖 Exploring AI Engineering, LLM applications and local AI systems
+🤖 Exploring **AI/ML, LLM applications, and intelligent systems**
 
-🚀 Building real-world products with modern technologies
-
-📚 Learning System Design, Computer Networks and Distributed Systems
-
-🌱 Always Learning. Always Building.
-
+📚 Currently learning **System Design, Distributed Systems & Cloud**
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
-
-## 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,sql" />
-</p>
-
-
-## 🎨 Frontend
+### 1️⃣ Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
-<img src="https://cdn.simpleicons.org/greensock/88CE02" height="48"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-
-## ⚙️ Backend
+### 2️⃣ Frontend & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white"/>
 </p>
 
-
-## 🤖 AI & Tools
+### 3️⃣ Data Science & AI/ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 </p>
 
+### 4️⃣ Tools & Services
 
----
-
-# 🚀 Featured Projects
-
-
-## 🤖 ForgeAI
-
-### Local AI Desktop Assistant
-
-A local AI-powered desktop environment designed to interact with AI models, manage files, and improve developer productivity.
-
-
-### 🛠 Tech Stack
-
-```
-React
-Node.js
-Ollama
-Local LLMs
-JavaScript
-```
-
-
-### ✨ Features
-
-- 🤖 Local AI model integration
-- 💬 AI chat interface
-- 📂 File management workflow
-- ⚡ Developer productivity tools
-- 🧠 Local model experimentation
-
-
-🔗 Repository:
-
-[ForgeAI](https://github.com/harshitlakhara7877/Local-AI-Desktop)
-
-
-
----
-
-
-## 🚗 NovaRide
-
-### Full Stack Ride Sharing Platform
-
-An Uber-inspired ride-sharing platform built with modern full-stack architecture and backend engineering concepts.
-
-
-### 🛠 Tech Stack
-
-```
-React
-Node.js
-Express
-MongoDB
-JWT Authentication
-Maps Integration
-Socket.IO
-```
-
-
-### ✨ Features
-
-- 🔐 User authentication system
-- 🚗 Captain/driver management
-- 📍 Location-based services
-- 🚘 Ride booking workflow
-- 🌐 REST API architecture
-- ⚡ Real-time communication concepts
-
-
-🔗 Repository:
-
-[NovaRide](https://github.com/harshitlakhara7877/NovaRide)
-
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
+</p>
 
 ---
 
 # 🔥 Current Focus
-
 
 🚀 Building production-ready full-stack applications
 
@@ -158,51 +73,18 @@ Socket.IO
 
 🧩 Improving problem solving through DSA
 
-
-
----
-
-# 📚 Currently Learning
-
-- System Design
-- Backend Engineering
-- Database Internals
-- Computer Networks
-- Artificial Intelligence
-- Cloud Fundamentals
-
-
-
----
-
-# 📊 GitHub Stats
-
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=harshitlakhara7877&theme=tokyonight&hide_border=true" />
-
-
-</div>
-
 ---
 
 # 🧩 Problem Solving
 
-
-<div align="center">
-
 ### Data Structures & Algorithms Journey
-
-</div>
-
 
 🧠 Strengthening problem-solving skills through consistent DSA practice
 
 ⚡ Solving algorithmic problems to improve logic and coding efficiency
 
-📚 Practicing patterns like:
+### 📌 Patterns I'm Practicing
+
 - Arrays & Strings
 - Linked Lists
 - Trees & Graphs
@@ -211,63 +93,53 @@ Socket.IO
 - Sliding Window & Two Pointers
 
 
-<div align="center">
-
-<a href="https://leetcode.com/u/MDhEDGuhYd/">
-
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-</div>
-
+<p>
+  <a href="https://leetcode.com/u/MDhEDGuhYd/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
----
+# 📊 GitHub Stats
 
-
-# 🧩 My Philosophy
-
-- Understand deeply.
-- Build consistently.
-- Improve continuously.
-- Stay curious.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitlakhara7877&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=harshitlakhara7877&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+# 🌐 Connect With Me
+
+<p>
+  <a href="mailto:harshitlakhara63@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshit-lakhara-699906373/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 
 # 🌍 Beyond The Terminal
 
+🏋️ Building discipline through heavy lifting and fitness
 
-- 🏋️ Building discipline through heavy lifting and fitness
+🏸 Enjoy playing badminton and staying competitive
 
-- 🏸 Enjoy playing badminton and staying competitive
+🌍 Curious about travelling, exploring new places and cultures
 
-- 🌍 Curious about travelling, exploring new places and cultures
+🔭 Always excited to discover new technologies and ideas
 
-- 🔭 Always excited to discover new technologies and ideas
-
-- ☕ Believer in continuous learning, growth and improvement
-
-
+☕ Believer in continuous learning, growth and improvement
 
 ---
 
-# 🤝 Connect With Me
-
-<a href="https://github.com/harshitlakhara7877">
-
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-
-</a>
-
-
-
-
----
-
-<div align="center">
-
-⭐ Building today. Learning tomorrow. Creating the future.
-
-</div>
+<p align="center">
+  ⭐ <b>Building today. Learning tomorrow. Creating the future.</b>
+</p>
